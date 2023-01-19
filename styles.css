@@ -1,37 +1,39 @@
-#button-1{
+#button-1.btn.btn-primary{
    text-align: center;
    color: white; 
    background-color: blue;
+	border:none;
 }
-#button-2{
+#button-2.btn.btn-secondary{
     border-color: black;
     background-color: white;
 }
-#button-3{
+#button-3.btn.btn-success{
 color: white;
 background-color: green;
 padding: 4px;
-border-color: green;
+border:none;
 }
-#button-4{
+#button-4.btn.btn-danger{
     color: white;
     background-color: crimson;
-    border-color: crimson;
+   border:none;
 
 }
-#button-5{
+#button-5.btn.btn-warning{
     background-color: yellow;
     width: 600px;
     border: none;
 }
-#button-6{
+#button-6.btn.btn-info{
     background-color: aqua;
     border: none;
 }
-#button-7{
+#button-7.btn.btn-ligth{
     border: none;
+	background-color: white;
 }
-#button-8{
+#button-8.btn.btn-dark{
     color:blue ;
     border: none;
     text-underline-position: below;
