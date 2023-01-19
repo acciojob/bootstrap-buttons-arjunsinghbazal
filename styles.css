@@ -1,43 +1,40 @@
-#btn-primary{
+#button-1{
    text-align: center;
    color: white; 
    background-color: blue;
-	border: none;
 }
-#btn-secondary{
+#button-2{
     border-color: black;
     background-color: white;
 }
-#btn-success{
+#button-3{
 color: white;
 background-color: green;
 padding: 4px;
-border: none;
+border-color: green;
 }
-
-#btn-danger{
+#button-4{
     color: white;
     background-color: crimson;
-    border: none;
+    border-color: crimson;
 
 }
-#btn-warning{
+#button-5{
     background-color: yellow;
     width: 600px;
     border: none;
 }
-#btn-info{
+#button-6{
     background-color: aqua;
     border: none;
 }
-#btn-light{
+#button-7{
     border: none;
 }
-#btn-dark{
+#button-8{
     color:blue ;
     border: none;
     text-underline-position: below;
     background-color: white;
 
 }
-/* Your CSS Code here. */
